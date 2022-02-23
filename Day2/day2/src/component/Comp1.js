@@ -1,9 +1,9 @@
 function Comp1() {
     return (
-      <div className="#">
-       
+      <div>
+       <h2>Welcome</h2>
       </div>
     );
   }
-  
-  export default Comp1;
+  export default  Comp1;
+ 

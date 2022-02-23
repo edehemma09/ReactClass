@@ -1,9 +1,11 @@
-function Profile() {
+function Profile(props) {
+  console.log(props.name);
     return (
-      <div className="#">
-       
+      <div>
+       <h1>Emma</h1>
       </div>
     );
+ 
   }
   
   export default Profile;

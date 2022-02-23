@@ -1,7 +1,7 @@
-function Comp3() {
+function Comp3(props) {
     return (
       <div>
-       <h3>Hello </h3>
+       <h4>Hello {props.name} Welcome to Dubai.Our {props.CarName} is Top-notch for any {props.Gender}</h4>
       </div>
     );
   }

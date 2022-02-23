@@ -1,9 +1,12 @@
 function Profile(props) {
-  console.log(props.name);
+  
     return (
       <div>
-       <h1>Emma</h1>
+        
+        <h2>Do you know that his Coocoo name  is {props.name}</h2>
+        <p>This is a a testing screen for {props.name}</p>
       </div>
+     
     );
  
   }

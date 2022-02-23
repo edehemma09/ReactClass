@@ -1,7 +1,8 @@
-function Comp2() {
+function Comp2(props) {
+  
     return (
-      <div className="#">
-       <h2></h2>
+      <div >
+       <h2>This {props.VixeName} is a tough one.... Officer down</h2>
       </div>
     );
   }

@@ -6,9 +6,10 @@ function Profile() {
   
     return (
       <div>
-        </Input>
-        </Button>
-        </Profileimg>
+        <Profileimg/>
+        <Input/>
+        <Button/>
+      
         </div>
       
      

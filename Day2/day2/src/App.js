@@ -5,7 +5,7 @@ import Profile from './component/Profile';
 function App() {
   return (
     <div className="">
-      </Profile>
+      <Profile/>
     </div>
   );
 }

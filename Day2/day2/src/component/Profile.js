@@ -1,11 +1,16 @@
-function Profile(props) {
+import Profileimg from "./Profileimg";
+import Button from "./Button";
+import Input from "./Input";
+
+function Profile() {
   
     return (
       <div>
-        
-        <h2>Do you know that his Coocoo name  is {props.name}</h2>
-        <p>This is a a testing screen for {props.name}</p>
-      </div>
+        </Input>
+        </Button>
+        </Profileimg>
+        </div>
+      
      
     );
  

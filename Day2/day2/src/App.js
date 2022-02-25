@@ -6,7 +6,7 @@ import mystyle from './component/Style/mystyle';
 function App() {
   //console.log(mystyle.header)
   return (
-    <div style={mystyle.header} className='container' >
+    <div className="container"  >
       <Profile/>
     
     </div>

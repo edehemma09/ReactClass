@@ -1,0 +1,38 @@
+.inp{
+    margin-top: 10%;
+    background-color: transparent;
+}
+.inp{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: column;
+   
+}
+.inpcont{
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    margin-left: 2%;
+    /* border: 1px solid brown; */
+
+}
+.input{
+    margin-left: 25px;
+    line-height: 25px;
+    border: transparent;
+    width: 70%;
+    /* border: 1px solid violet; */
+
+
+}
+#name{
+    width: 71%;
+}
+#stack{
+    width:71%;
+    margin-left: 9%
+}
+#contact{
+    width:71%;
+    margin-left: 4%
+}

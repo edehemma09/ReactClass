@@ -1,6 +1,8 @@
+import './Style/Button.css';
 function Button() {
     return (
-      <div>
+      <div className="btn">
+        <button className="btn-dwn">Toggle Background</button>
       
       </div>
     );

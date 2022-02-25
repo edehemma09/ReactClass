@@ -3,11 +3,14 @@
   padding: 0px;
   font-style: normal;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
+  background-color: rgb(147, 199, 192);
 }
 .container{
   margin: 0 auto;
   height: 400px;
   width: 250px;
   background-color: antiquewhite;
+}
+.profimg{
+  background-image: url(./assets/avatar.jpg);
 }

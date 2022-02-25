@@ -1,12 +1,16 @@
 import './App.css';
-
 import Profile from './component/Profile';
+import mystyle from './component/Style/mystyle';
+
 
 function App() {
+  //console.log(mystyle.header)
   return (
-    <div className="">
+    <div style={mystyle.header} className='container' >
       <Profile/>
+    
     </div>
+    
   );
 }
 

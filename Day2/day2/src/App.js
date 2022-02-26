@@ -1,6 +1,6 @@
 import './App.css';
 import Profile from './component/Profile';
-import mystyle from './component/Style/mystyle';
+// import mystyle from './component/Style/mystyle';
 
 
 function App() {

@@ -19,6 +19,18 @@
     display: flex;
 
 }
+.container-right{
+    margin-top: 2%;
+    margin-left: 10%;
+    opacity: 52%;
+    height: 600px;
+    width: 300px;
+    background-color: rgb(228, 146, 180);
+    border-radius: 24px;
+    display: flex;
+
+
+}
 .img-holder{
     padding: 1%;
     margin: 5%;
@@ -177,4 +189,27 @@ label{
     background-color:#eb87a2;
     color: rgb(255, 6, 139);
     opacity: 51%;
+}
+.indicator{
+    height: 100px;
+    width: 100px;
+    display: flex;
+
+}
+.dislike{
+    height: 60px;
+    width: 50px;
+    margin-left:2%;
+    border-radius: 50px;
+}
+.like{
+    height: 60px;
+    width: 50px;
+    margin-left:6%;
+    border-radius: 50px;
+}
+img {
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
 }
